@@ -3,7 +3,6 @@
         "RedlineBodyOffset":"100000000",
         "RedlineHeadOffset":"190000000",
         "RedlineHaOffsett":"190000000",
-
         "RedlineBodyPak":"pakchunk10_s4-WindowsClient.ucas",
         "RedlineHeadPak":"pakchunk10_s5-WindowsClient.ucas",
         "RedlineHatPak":"pakchunk10_s5-WindowsClient.ucas",
@@ -11,7 +10,6 @@
         "GingerRenegadeBodyOffset":"200000000",
         "GingerRenegadeHeadOffset":"200000000",
         "GingerRenegadHatOffsett":"200000000",
-
         "GingerRenegadeBodyPak":"pakchunk10_s22-WindowsClient.ucas",
         "GingerRenegadeHeadPak":"pakchunk10_s22-WindowsClient.ucas",
         "GingerRenegadeHatPak":"pakchunk10_s22-WindowsClient.ucas",
@@ -19,7 +17,6 @@
         "BlazeBodyOffset":"40000000",
         "BlazeHeadOffset":"200000",
         "BlazeHatOffsett":"200000",
-
         "BlazeBodyPak":"pakchunk10_s4-WindowsClient.ucas",
         "BlazeHeadPak":"pakchunk10_s5-WindowsClient.ucas",
         "BlazeHatPak":"pakchunk10_s5-WindowsClient.ucas",
@@ -27,7 +24,6 @@
         "FrozenRedknightBodyOffset":"100000000",
         "FrozenRedknightHeadOffset":"100000000",
         "FrozenRedknightHatOffsett":"100000000",
-
         "FrozenRedknightBodyPak":"pakchunk10_s4-WindowsClient.ucas",
         "FrozenRedknightHeadPak":"pakchunk10_s5-WindowsClient.ucas",
         "FrozenRedknightHatPak":"pakchunk10_s5-WindowsClient.ucas",
@@ -35,7 +31,6 @@
         "NiteliteBodyOffset":"100000000",
         "NiteliteHeadOffset":"100000000",
         "NiteliteHatOffsett":"100000000",
-
         "NiteliteBodyPak":"pakchunk10_s4-WindowsClient.ucas",
         "NiteliteHeadPak":"pakchunk10_s5-WindowsClient.ucas",
         "NiteliteHatPak":"pakchunk10_s5-WindowsClient.ucas",
@@ -43,7 +38,6 @@
         "NeoVersaBodyOffset":"100000000",
         "NeoVersaHeadOffset":"100000000",
         "NeoVersaHatOffsett":"100000000",
-
         "NeoVersaBodyPak":"pakchunk10_s4-WindowsClient.ucas",
         "NeoVersaHeadPak":"pakchunk10_s5-WindowsClient.ucas",
         "NeoVersaHatPak":"pakchunk10_s5-WindowsClient.ucas",
@@ -52,7 +46,6 @@
         "MoltenValkyrieBodyOffset":"100000000",
         "MoltenValkyrieHeadOffset":"100000000",
         "MoltenValkyrieHatOffsett":"100000000",
-
         "MoltenValkyrieBodypak":"pakchunk10_s4-WindowsClient.ucas",
         "MoltenValkyrieHeadpak":"pakchunk10_s5-WindowsClient.ucas",
         "MoltenValkyrieHatpak":"pakchunk10_s5-WindowsClient.ucas",
@@ -61,7 +54,6 @@
         "FrostSquadBodyOffset":"200000000",
         "FrostSquadHeadOffset":"200000000",
         "FrostSquadHatOffsett":"200000000",
-
         "FrostSquadBodypak":"pakchunk10_s4-WindowsClient.ucas",
         "FrostSquadHeadpak":"pakchunk10_s5-WindowsClient.ucas",
         "FrostSquadHatpak":"pakchunk10_s5-WindowsClient.ucas",
@@ -70,9 +62,253 @@
         "DiamondDivaBodyOffset":"100000000",
         "DiamondDivaHeadOffset":"100000000",
         "DiamondDivaHatOffsett":"100000000",
-
         "DiamondDivaBodypak":"pakchunk10_s4-WindowsClient.ucas",
         "DiamondDivaHeadpak":"pakchunk10_s5-WindowsClient.ucas",
         "DiamondDivaHatpak":"pakchunk10_s5-WindowsClient.ucas",
+        
+        "MutionistExpertBodyOffset" = "130000000",
+        "MutionistExpertHeadOffset" = "130000000",
+        "MutionistExpertHatOffsett" = "190000000",
+        "SonyBodypak" = "pakchunk10_s5-WindowsClient.ucas",
+        "MutionistExpertBodypak" = "pakchunk10_s4-WindowsClient.ucas",
+        "MutionistExpertHeadpak" = "pakchunk10_s4-WindowsClient.ucas",
+        "MutionistExpertHatpak" = "pakchunk10_s5-WindowsClient.ucas",
+        
+"JenniferWBodyOffset" : "130000000",
+"JenniferWHeadOffset" : "190000000",
+"JenniferWHatOffsett" : "190000000",
+"JenniferWBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"JenniferWHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"JenniferWHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"CuddleTLBodyOffset" : "130000000",
+"CuddleTLHeadOffset" : "190000000",
+"CuddleTLHatOffsett" : "190000000",
+"CuddleTLBodypak" : "pakchunk10_s5-WindowsClient.ucas",
+"CuddleTLHeadpak" : "pakchunk10_s4-WindowsClient.ucas",
+"CuddleTLHatpak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"FireWorksTLBodyOffset" : "130000000",
+"FireWorksTLHeadOffset" : "150000000",
+"FireWorksTLHatOffsett" : "190000000",
+"FireWorksTLBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"FireWorksTLHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"FireWorksTLHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"TurkVsRepBodyOffset" : "71000000",
+"TurkVsRepHeadOffset" : "730000",
+"TurkVsRepHatOffsett" : "730000",
+"TurkVsRepBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"TurkVsRepHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"TurkVsRepHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"PandaTLBodyOffset" : "130000000",
+"PandaTLHeadOffset" : "190000000",
+"PandaTLHatOffsett" : "190000000",
+"PandaTLBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"PandaTLHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"PandaTLHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"ReconSpecialistBodyOffset" : "190000000",
+"ReconSpecialistHeadOffset" : "180000000",
+"ReconSpecialistHatOffsett" : "190000000",
+"ReconSpecialistBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"ReconSpecialistHeadpak" : "pakchunk10_s4-WindowsClient.ucas",
+"ReconSpecialistHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+        
+"EverGreenBodyOffset" : "130000080",
+"EverGreenHeadOffset" : "190000000",
+"EverGreenHatOffsett" : "190000000",
+"EverGreenBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"EverGreenHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"EverGreenHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+
+"FrozenNogOpsBodyOffset" : "130000000",
+"FrozenNogOpsHeadOffset" : "180000000",
+"FrozenNogOpsHatOffsett" : "180000000",
+"FrozenNogOpsBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"FrozenNogOpsHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"FrozenNogOpsHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+
+"DarkBomberBodyOffset" : "120000000",
+"DarkBomberHeadOffset" : "180000000",
+"DarkBomberHatOffsett" : "180000000",
+"DarkBomberBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"DarkBomberHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"DarkBomberHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+
+"NogOpsBodyOffset" : "120000000",
+"NogOpsHeadOffset" : "120000000",
+"NogOpsHatOffsett" : "180000000",
+"NogOpsBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"NogOpsHeadpak" : "pakchunk10_s4-WindowsClient.ucas",
+"NogOpsHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+
+"StarsAndStripesBodyOffset" : "120000000",
+"StarsAndStripesHeadOffset" : "120000000",
+"StarsAndStripesHatOffsett" : "180000000",
+"StarsAndStripesBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"StarsAndStripesHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"StarsAndStripesHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+        
+"CosmeticDataOffset" : "1000000",
+"MaleDefaultCPOffset" : "80000000",
+"FemaleDefaultCPOffsett" : "1000000",
+"CosmeticDatapak" : "pakchunk10_s4-WindowsClient.ucas",
+"MaleDefaultCPpak" : "pakchunk10_s4-WindowsClient.ucas",
+"FemaleDefaultCPpak" : "pakchunk10_s4-WindowsClient.ucas",
+
+
+"RedknightBodyOffset" : "130000000",
+"RedknightHeadOffset" : "130000000",
+"RedknightHatOffsett" : "180000000",
+"RedknightBodyPak" : "pakchunk10_s4-WindowsClient.ucas",
+"RedknightHeadPak" : "pakchunk10_s4-WindowsClient.ucas",
+"RedknightHatPak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"YellowJacketBodyOffset" : "130000000",
+"YellowJacketHeadOffset" : "180000000",
+"YellowJacketHatOffsett" : "180000000",
+"YellowJacketBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"YellowJacketHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"YellowJacketHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"SkyeBodyOffset" : "130000000",
+"SkyeHeadOffset" : "130000000",
+"SkyeHatOffsett" : "130000000",
+"SkyeBodypak" : "pakchunk10_s21-WindowsClient.ucas",
+"SkyeHeadpak" : "pakchunk10_s21-WindowsClient.ucas",
+"SkyeHatpak" : "pakchunk10_s21-WindowsClient.ucas",
+
+"CatalystBodyOffset" : "120000000",
+"CatalystHeadOffset" : "180000000",
+"CatalystHatOffsett" : "180000000",
+"CatalystBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"CatalystHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"CatalystHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"FrozenFishBodyOffset" : "120000000",
+"FrozenFishHeadOffset" : "180000000",
+"FrozenFishHatOffsett" : "180000000",
+"FrozenFishBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"FrozenFishHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"FrozenFishHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"WoolyBodyOffset" : "120000000",
+"WoolyHeadOffset" : "180000000",
+"WoolyHatOffsett" : "180000000",
+"WoolyBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"WoolyHeadpak" : "pakchunk10_s5-WindowsClient.ucas",
+"WoolyHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"SurvivalSpecialistBodyOffset" : "130000000",
+"SurvivalSpecialistHeadOffset" : "180000000",
+"SurvivalSpecialistHatOffsett" : "180000000",
+"SurvivalSpecialistBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"SurvivalSpecialistHeadpak" : "pakchunk10_s4-WindowsClient.ucas",
+"SurvivalSpecialistHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+
+"SpookyTeamLeaderBodyOffset" : "130000000",
+"SpookyTeamLeaderHeadOffset" : "180000000",
+"SpookyTeamLeaderHatOffsett" : "180000000",
+"SpookyTeamLeaderBodypak" : "pakchunk10_s4-WindowsClient.ucas",
+"SpookyTeamLeaderHeadpak" : "pakchunk10_s4-WindowsClient.ucas",
+"SpookyTeamLeaderHatpak" : "pakchunk10_s5-WindowsClient.ucas",
+     
+//Pickaxe Offsets
+"DefaultPickaxeOffset" : "200000",
+"DefaultPickaxePak" : "pakchunk10_s3-WindowsClient.ucas",
+
+"ShootingStarPickaxeOffset" : "15000000",
+"ShootingStarPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"SmashlanternPickaxeOffset" : "15000000",
+"SmashlanternPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"FrozenAxePickaxeOffset" : "15000000",
+"FrozenAxePickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"PopAxePickaxeOffset" : "15000000",
+"PopAxePickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"HandLightPickaxeOffset" : "15000000",
+"HandLightPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"PeppermintPickaxeOffset" : "15000000",
+"PeppermintPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"ScorcherPickaxeOffset" : "16000000",
+"ScorcherPickaxeCueOffsett" : "25000000"0,
+"ScorcherPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+"ScorcherPickaxeCuePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"OctoPickaxeOffset" : "15000000",
+"OctoPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"VenomBladePickaxeOffset" : "15000000",
+"VenomBladePickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"SnowyPickaxeOffset" : "18000000",
+"SnowyPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"GrootPickaxeOffset" : "15000000",
+"GrootPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"DriftPickaxeOffset" : "17000000",
+"DriftPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+"DriftImpactCUEOffset" : "240000000",
+"DriftImpactCUEPak" : "pakchunk10_s4-WindowsClient.ucas",
+"DriftSwingCUEOffset" : "240000000",
+"DriftSwingCUEPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"DiamondDivaPickaxeOffset" : "18000000",
+"DiamondDivaPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"TideAxePickaxeOffset" : "17000000",
+"TideAxePickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"BalloonPickaxeOffset" : "15000000",
+"BalloonPickaxeCueOffsett" : "240000000",
+"BalloonPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+"BalloonPickaxeCuePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"CrimsonPickaxeOffset" : "15000000",
+"CrimsonPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"HammersPickaxeOffset" : "10000000",
+"HammersPickaxePak" : "pakchunk10_s4-WindowsClient.ucas",
+      
+//Backblings Offsets
+"OceanRiderBackBlingOffset" : "30000000",
+"OceanRiderBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"SithBackBlingOffset" : "30000000",
+"SithBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"FireStarterBackBlingOffset" : "30000000",
+"FireStarterBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"MysticOffset" : "30000000",
+"MysticPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"ShinePackBackBlingOffset" : "30000000",
+"ShinePackBackBlingpak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"RedShieldBackBlingOffset" : "30000000",
+"RedShieldBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"OhmPerchBackBlingOffset" : "30000000",
+"OhmPerchBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"FrozenWingsBackBlingOffset" : "30000000",
+"FrozenWingsBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+
+"WolfTrophieBackBlingOffset" : "30000000",
+"WolfTrophieBackBlingPak" : "pakchunk10_s4-WindowsClient.ucas",
+        
     }
  }

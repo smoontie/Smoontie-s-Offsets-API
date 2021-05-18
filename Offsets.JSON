@@ -52,12 +52,12 @@
         "MoltenValkyrieHatPak":"Pakchunk10_s5-WindowsClient.ucas",
 
 
-        "FrostSquadBodyOffset":"200000000",
-        "FrostSquadHeadOffset":"200000000",
-        "FrostSquadHatOffsett":"200000000",
-        "FrostSquadBodyPak":"Pakchunk10_s4-WindowsClient.ucas",
-        "FrostSquadHeadPak":"Pakchunk10_s5-WindowsClient.ucas",
-        "FrostSquadHatPak":"Pakchunk10_s5-WindowsClient.ucas",
+        "FrostSquadBodyOffset":"230000000",
+        "FrostSquadHeadOffset":"240000000",
+        "FrostSquadHatOffsett":"240000000",
+        "FrostSquadBodyPak":"Pakchunk10_s22-WindowsClient.ucas",
+        "FrostSquadHeadPak":"Pakchunk10_s22-WindowsClient.ucas",
+        "FrostSquadHatPak":"Pakchunk10_s22-WindowsClient.ucas",
 
 
         "DiamondDivaBodyOffset":"100000000",

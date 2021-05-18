@@ -311,5 +311,11 @@
 "WolfTrophieBackBlingOffset" : "30000000",
 "WolfTrophieBackBlingPak" : "Pakchunk10_s4-WindowsClient.ucas",
         
+        
+//Emotes Offsets
+        
+"BoogieDownOffset" : "40000000",
+"BoogieDownPak" : "Pakchunk10_s4-WindowsClient.ucas",
+        
     }
  }

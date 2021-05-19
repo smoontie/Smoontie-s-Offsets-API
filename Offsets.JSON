@@ -317,5 +317,8 @@
 "BoogieDownOffset" : "40000000",
 "BoogieDownPak" : "Pakchunk100_s4-WindowsClient.ucas",
         
+        //Misc offsets
+"CPFileOffset" : "1000000",
+"CPFilePak" : "Pakchunk100_s4-WindowsClient.ucas",
     }
  }

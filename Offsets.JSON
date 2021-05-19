@@ -320,5 +320,12 @@
         //Misc offsets
 "CPFileOffset" : "1000000",
 "CPFilePak" : "Pakchunk100_s4-WindowsClient.ucas",
+        
+"FemaleBodyCPOffset" : "1000000",
+"FemaleBodyCPPak" : "Pakchunk100_s4-WindowsClient.ucas",
+
+"MaleBodyCPOffset" : "80000000",
+"MaleBodyCPPak" : "Pakchunk100_s4-WindowsClient.ucas",
+
     }
  }

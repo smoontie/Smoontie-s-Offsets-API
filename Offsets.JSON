@@ -31,10 +31,10 @@
         "NiteliteBodyOffset":"120000000",
         "NiteliteHeadOffset":"180000000",
         "NiteliteHatOffsett":"180000000",
-        "NiteliteBodyPak":"Pakchunk10_s4-WindowsClient.ucas",
-        "NiteliteHeadPak":"Pakchunk10_s5-WindowsClient.ucas",
+        "NiteliteBodyPak":"Pakchunk100_s4-WindowsClient.ucas",
+        "NiteliteHeadPak":"Pakchunk100_s5-WindowsClient.ucas",
         "MerryMarHeadPak":"Pakchunk10_s5-WindowsClient.ucas",
-        "NiteliteHatPak":"Pakchunk10_s5-WindowsClient.ucas",
+        "NiteliteHatPak":"Pakchunk100_s5-WindowsClient.ucas",
 
         "NeoVersaBodyOffset":"130000000",
         "NeoVersaHeadOffset":"190000000",

@@ -321,7 +321,7 @@
 "BoogieDownPak" : "Pakchunk100_s4-WindowsClient.ucas",
         
         //Misc offsets
-"CPFileOffset" : "1000000",
+"CPFileOffset" : "1000001",
 "CPFilePak" : "Pakchunk100_s4-WindowsClient.ucas",
         
 "FemaleBodyCPOffset" : "1000000",

@@ -330,5 +330,11 @@
 "MaleBodyCPOffset" : "80000000",
 "MaleBodyCPPak" : "Pakchunk100_s4-WindowsClient.ucas",
 
+"CommonTacOffset" : "3000000",
+"UncommonTacOffset" : "3000000",
+"RareTacOffsett" : "3000000",
+"CommonTacPak" : "Pakchunk100_s4-WindowsClient.ucas",
+"UncommonTacPak" : "Pakchunk100_s4-WindowsClient.ucas",
+"RareTacPak" : "Pakchunk100_s4-WindowsClient.ucas",
     }
  }

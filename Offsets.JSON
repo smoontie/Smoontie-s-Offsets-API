@@ -336,5 +336,11 @@
 "CommonTacPak" : "Pakchunk100_s4-WindowsClient.ucas",
 "UncommonTacPak" : "Pakchunk100_s4-WindowsClient.ucas",
 "RareTacPak" : "Pakchunk100_s4-WindowsClient.ucas",
+        
+"SoundOffset" : "500000000",
+"SoundPak" : "Pakchunk100_s3-WindowsClient.ucas",
+        
+"SoundCueOffset" : "100000000",
+"SoundCuePak" : "Pakchunk100_s3-WindowsClient.ucas",
     }
  }

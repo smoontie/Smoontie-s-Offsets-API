@@ -342,5 +342,8 @@
         
 "SoundCueOffset" : "100000000",
 "SoundCuePak" : "Pakchunk100_s3-WindowsClient.ucas",
+        
+"ScarOffset" : "509952",
+"ScarPak" : "Pakchunk100_s17-WindowsClient.ucas",
     }
  }

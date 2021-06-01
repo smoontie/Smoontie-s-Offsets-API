@@ -345,5 +345,12 @@
         
 "ScarOffset" : "509952",
 "ScarPak" : "Pakchunk100_s17-WindowsClient.ucas",
+        
+"DinoHunterBodyOffset":"60000000",
+"DinoHunterHeadOffset":"60000000",
+"DinoHunterOffsett":"60000000",
+"DinoHunterBodyPak":"Pakchunk100_s22-WindowsClient.ucas",
+"DinoHunterHeadPak":"Pakchunk100_s22-WindowsClient.ucas",
+"DinoHunterHatPak":"Pakchunk100_s22-WindowsClient.ucas",
     }
  }

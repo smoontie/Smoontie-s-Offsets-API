@@ -52,9 +52,9 @@
         "MoltenValkyrieHatPak":"Pakchunk100_s5-WindowsClient.ucas",
 
 
-        "FrostSquadBodyOffset":"230000000",
-        "FrostSquadHeadOffset":"240000000",
-        "FrostSquadHatOffsett":"240000000",
+        "FrostSquadBodyOffset":"300000000",
+        "FrostSquadHeadOffset":"300000000",
+        "FrostSquadHatOffsett":"300000000",
         "FrostSquadBodyPak":"Pakchunk100_s22-WindowsClient.ucas",
         "FrostSquadHeadPak":"Pakchunk100_s22-WindowsClient.ucas",
         "FrostSquadHatPak":"Pakchunk100_s22-WindowsClient.ucas",
@@ -118,16 +118,16 @@
 "ReconSpecialistHatPak" : "Pakchunk100_s5-WindowsClient.ucas",
         
 "EverGreenBodyOffset" : "130000080",
-"EverGreenHeadOffset" : "190000000",
-"EverGreenHatOffsett" : "190000000",
+"EverGreenHeadOffset" : "160000000",
+"EverGreenHatOffsett" : "160000000",
 "EverGreenBodyPak" : "Pakchunk100_s4-WindowsClient.ucas",
 "EverGreenHeadPak" : "Pakchunk100_s5-WindowsClient.ucas",
 "EverGreenHatPak" : "Pakchunk100_s5-WindowsClient.ucas",
 
 
 "FrozenNogOpsBodyOffset" : "130000000",
-"FrozenNogOpsHeadOffset" : "180000000",
-"FrozenNogOpsHatOffsett" : "180000000",
+"FrozenNogOpsHeadOffset" : "160000000",
+"FrozenNogOpsHatOffsett" : "160000000",
 "FrozenNogOpsBodyPak" : "Pakchunk100_s4-WindowsClient.ucas",
 "FrozenNogOpsHeadPak" : "Pakchunk100_s5-WindowsClient.ucas",
 "FrozenNogOpsHatPak" : "Pakchunk100_s5-WindowsClient.ucas",
@@ -196,8 +196,8 @@
 "CatalystHatPak" : "Pakchunk100_s5-WindowsClient.ucas",
 
 "FrozenFishBodyOffset" : "120000000",
-"FrozenFishHeadOffset" : "180000000",
-"FrozenFishHatOffsett" : "180000000",
+"FrozenFishHeadOffset" : "160000000",
+"FrozenFishHatOffsett" : "160000000",
 "FrozenFishBodyPak" : "Pakchunk100_s4-WindowsClient.ucas",
 "FrozenFishHeadPak" : "Pakchunk100_s5-WindowsClient.ucas",
 "FrozenFishHatPak" : "Pakchunk100_s5-WindowsClient.ucas",

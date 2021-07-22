@@ -1,8 +1,8 @@
 {
     "Offsets":{
-        "RedlineBodyOffset":"100000000",
-        "RedlineHeadOffset":"190000000",
-        "RedlineHaOffsett":"190000000",
+        "RedlineBodyOffset":"110000000",
+        "RedlineHeadOffset":"160000000",
+        "RedlineHaOffsett":"160000000",
         "RedlineBodyPak":"Pakchunk100_s4-WindowsClient.ucas",
         "RedlineHeadPak":"Pakchunk100_s5-WindowsClient.ucas",
         "RedlineHatPak":"Pakchunk100_s5-WindowsClient.ucas",

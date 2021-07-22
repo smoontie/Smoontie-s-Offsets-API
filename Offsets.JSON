@@ -119,7 +119,7 @@
         
 "EverGreenBodyOffset" : "130000080",
 "EverGreenHeadOffset" : "160000000",
-"EverGreenHatOffsett" : "160000000",
+"EverGreenHatOffsett" : "120000000",
 "EverGreenBodyPak" : "Pakchunk100_s4-WindowsClient.ucas",
 "EverGreenHeadPak" : "Pakchunk100_s5-WindowsClient.ucas",
 "EverGreenHatPak" : "Pakchunk100_s5-WindowsClient.ucas",
@@ -317,7 +317,7 @@
         
 //Emotes Offsets
         
-"BoogieDownOffset" : "39000000",
+"BoogieDownOffset" : "30000000",
 "BoogieDownPak" : "Pakchunk100_s4-WindowsClient.ucas",
         
         //Misc offsets
